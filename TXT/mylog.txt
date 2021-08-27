@@ -1,0 +1,10 @@
+# ##########################################
+# https://osp4diss.vlsm.org/ETC/logCodes.txt
+# ##########################################
+#
+# Log Format
+# ZCZC WEEK# MINUTES LogCode Description
+#
+# My Log
+# ZSZC W00 15 Github related
+# ZSZC W00 30 Github Pages related
