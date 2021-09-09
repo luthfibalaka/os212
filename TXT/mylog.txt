@@ -11,3 +11,8 @@ ZCZC W00  50 L15 Assignment #05
 ZCZC W00 100 L02 ZOOM meetings related
 ZCZC W00  50 L86 House chores
 ZCZC W00  60 L70 Studying for other courses (Alin)
+ZCZC W01  10 L01 SCELE/Discord related
+ZCZC W01  15 L11 Assignment #01
+ZCZC W01  50 L12 Assignment #02
+ZCZC W01  10 L14 Assignment #04
+ZCZC W01  10 L15 Assignment #05
