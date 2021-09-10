@@ -1,10 +1,8 @@
 
 ## Muhammad Imam Luthfi Balaka - Operating System Class 2021-2
 
-[My Log](https://luthfibalaka.github.io/os212/TXT/mylog.txt) | [Repo](https://github.com/luthfibalaka/os212) | [Materials](https://os.vlsm.org/)
+[LOG](https://luthfibalaka.github.io/os212/TXT/mylog.txt) | [REPO](https://github.com/luthfibalaka/os212) | [LINKS]({{site.baseurl}}/LINKS/)
 
-### Hello and Welcome to My Github Page!
+### Hello and welcome to my GitHub Page!
 
-#### Here are links to my top 10 list every week. Check it out!
-
-1. [Week 01]({{site.baseurl}}/W01/)
+#### You may check LINKS to see some useful stuffs! :grin:
