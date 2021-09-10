@@ -5,4 +5,4 @@
 
 ### Hello and welcome to my GitHub Page!
 
-#### You may check LINKS to see some useful stuffs! :grin:
+#### You may check LINKS to see some useful stuffs!
