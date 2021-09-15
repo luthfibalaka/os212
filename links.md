@@ -14,3 +14,6 @@ This website provides a tutorial of Grep and Regex. It started from the syntax o
 
 3. [Learn AWK](https://www.tutorialspoint.com/awk/awk_quick_guide.htm)  
 This website provides a tutorial of making AWK script. The explanation is easy to understand and it teaches not only about using AWK in terminal, but also making the actual script!
+
+4. [Learn C](#)  
+This website provides tutorial of C. It gives essential things to get started using C. If you have used Java before, it's easy to understand everything here.
