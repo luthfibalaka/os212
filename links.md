@@ -26,6 +26,18 @@ This website provides cheat sheet of SED for quick reference. It is good to infe
 6. [AWK Cheat Sheet](https://quickref.me/awk)  
 This website provides cheat sheet of AWK for quick reference. Just like above, in short amount of time, we can infer many part of AWK.
 
+7. [Regex Cheat Sheet](https://ryanstutorials.net/regular-expressions-tutorial/regular-expressions-cheat-sheet.php)  
+This website provides cheat sheet of Regex. Why do you need this? Because we may forget the syntax to do certain regex pattern matching, so this is a good place for quick reference.
+
+8. [Grep Cheat Sheet](https://ryanstutorials.net/linuxtutorial/cheatsheetgrep.php)  
+This website provides cheat sheet of Grep. Grep is one of many tools where we can utilize regex. Here, we can find many useful syntax of it.
+
+9. [Linux Command Cheat Sheet](https://ryanstutorials.net/linuxtutorial/cheatsheet.php)  
+This website provides cheat sheet of a lot of essential linux commands. By knowing it, we can be quite fluent and confident in using command line interface of linux.
+
+10. [Learn Virtualization] (https://www.ibm.com/cloud/learn/virtualization-a-complete-guide#toc-types-of-v-aTJ2efV9)  
+This website provides a really good overview of virtualization. It is interesting to learn about it from the standpoint of business.
+
 ## W02
 
 1. [Learn GPG](https://www.privex.io/articles/what-is-gpg)  
