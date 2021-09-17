@@ -27,4 +27,6 @@ ZCZC W02  10 L01 SCELE/Discord related
 ZCZC W02  20 L22 Quiz
 ZCZC W02  15 L27 Generate GnuPG Key Pair, list it, and importing ospubkey.txt
 ZCZC W02  10 L03 Export my public key to GitHub Repo
+ZCZC W02  60 L26 Learn C from https://www.freecodecamp.org/news/the-c-beginners-handbook/
+ZCZC W02 135 L32 Study Cyber Security Introduction Part 1 and Part 2 (Culture only)
 ZCZC W02   5 L24 Copy bash script from osp4diss.vlsm.org

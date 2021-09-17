@@ -17,6 +17,15 @@ This website provides a tutorial of Grep and Regex. It started from the syntax o
 3. [Learn AWK](https://www.tutorialspoint.com/awk/awk_quick_guide.htm)  
 This website provides a tutorial of making AWK script. The explanation is easy to understand and it teaches not only about using AWK in terminal, but also making the actual script!
 
+4. [Learn Advanced Regex](https://ryanstutorials.net/regular-expressions-tutorial/regular-expressions-advanced.php)  
+This website provides a more advanced regex tutorial. The explanation is good and each concept is accompanied with example so we can infer how the concept works.
+
+5. [SED Cheat Sheet](https://quickref.me/sed)  
+This website provides cheat sheet of SED for quick reference. It is good to infer many part of SED in short amount of time.
+
+6. [AWK Cheat Sheet](https://quickref.me/awk)  
+This website provides cheat sheet of AWK for quick reference. Just like above, in short amount of time, we can infer many part of AWK.
+
 ## W02
 
 1. [Learn GPG](https://www.privex.io/articles/what-is-gpg)  
