@@ -35,7 +35,7 @@ This website provides cheat sheet of Grep. Grep is one of many tools where we ca
 9. [Linux Command Cheat Sheet](https://ryanstutorials.net/linuxtutorial/cheatsheet.php)  
 This website provides cheat sheet of a lot of essential linux commands. By knowing it, we can be quite fluent and confident in using command line interface of linux.
 
-10. [Learn Virtualization] (https://www.ibm.com/cloud/learn/virtualization-a-complete-guide#toc-types-of-v-aTJ2efV9)  
+10. [Learn Virtualization](https://www.ibm.com/cloud/learn/virtualization-a-complete-guide#toc-types-of-v-aTJ2efV9)  
 This website provides a really good overview of virtualization. It is interesting to learn about it from the standpoint of business.
 
 ## W02
