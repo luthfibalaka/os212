@@ -14,17 +14,17 @@ This website provides a tutorial of Bash scripting. It is very beginner friendly
 2. [Learn Grep and Regex](https://www.opensourceforu.com/2012/06/beginners-guide-gnu-grep-basics/)  
 This website provides a tutorial of Grep and Regex. It started from the syntax of Grep and continued to talk quite deeply about Regex, the basic and the extended one.
 
-3. [Learn AWK](https://www.tutorialspoint.com/awk/awk_quick_guide.htm)  
-This website provides a tutorial of making AWK script. The explanation is easy to understand and it teaches not only about using AWK in terminal, but also making the actual script!
+3. [Learn AWK](https://www.grymoire.com/Unix/Awk.html)  
+This website provides a tutorial of AWK. It's a full tutorial and the explanation is easy to understand. But, you have to try it yourself to fully grasp the syntax of it.
 
-4. [Learn Advanced Regex](https://ryanstutorials.net/regular-expressions-tutorial/regular-expressions-advanced.php)  
-This website provides a more advanced regex tutorial. The explanation is good and each concept is accompanied with example so we can infer how the concept works.
+4. [Learn SED](https://www.grymoire.com/Unix/Sed.html)  
+This website provides a tutorial of SED. Just like AWK tutorial above, it's also a complete tutorial that needs to be tried by ourselves to fully understand it.
 
 5. [SED Cheat Sheet](https://quickref.me/sed)  
-This website provides cheat sheet of SED for quick reference. It is good to infer many part of SED in short amount of time.
+This website provides cheat sheet of SED. It's good for quick reference if you have learned the syntax of SED previously.
 
 6. [AWK Cheat Sheet](https://quickref.me/awk)  
-This website provides cheat sheet of AWK for quick reference. Just like above, in short amount of time, we can infer many part of AWK.
+This website provides cheat sheet of AWK. Just like SED cheat sheet, you have to learn the syntax first so that the cheat sheet makes sense.
 
 7. [Regex Cheat Sheet](https://ryanstutorials.net/regular-expressions-tutorial/regular-expressions-cheat-sheet.php)  
 This website provides cheat sheet of Regex. Why do you need this? Because we may forget the syntax to do certain regex pattern matching, so this is a good place for quick reference.
