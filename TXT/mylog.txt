@@ -30,3 +30,14 @@ ZCZC W02  10 L03 Export my public key to GitHub Repo
 ZCZC W02  60 L26 Learn C from https://www.freecodecamp.org/news/the-c-beginners-handbook/
 ZCZC W02 135 L32 Study Cyber Security Introduction Part 1 and Part 2 (Culture only)
 ZCZC W02   5 L24 Copy bash script from osp4diss.vlsm.org
+ZCZC W02  60 L11 Assignment #01
+ZCZC W02  40 L12 Assignment #02
+ZCZC W02 135 L13 Assignment #03
+ZCZC W02   5 L14 Assignment #04
+ZCZC W02   5 L15 Assignment #05
+ZCZC W02   5 L16 Assignment #06
+ZCZC W02   5 L17 Assignment #07
+ZCZC W02  10 L18 Assignment #08
+ZCZC W02  20 L19 Assignment #09
+ZCZC W02  10 L20 Assignment #10
+ZCZC W02  15 L09 Assignment #11-#13
