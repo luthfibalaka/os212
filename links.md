@@ -48,3 +48,8 @@ This website provides tutorial of C. It gives essential things to get started us
 
 3. [Learn Pointer in C](https://www.guru99.com/c-pointers.html)  
 This website provides great information about pointer in C language. It's an important subject because C is closer to low level language when compared to other high level language.
+
+## W03
+
+1. [Learn Tar](https://www.hostinger.co.id/tutorial/tar-linux)  
+This website provides explanation of what is Tar in Linux. It gives quite a complete intro into Tar but still very beginner friendly so definitely check it out!
