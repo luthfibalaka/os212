@@ -53,3 +53,9 @@ This website provides great information about pointer in C language. It's an imp
 
 1. [Learn Tar](https://www.hostinger.co.id/tutorial/tar-linux)  
 This website provides explanation of what is Tar in Linux. It gives quite a complete intro into Tar but still very beginner friendly so definitely check it out!
+
+2. [Learn FUSE](https://www.kernel.org/doc/html/latest/filesystems/fuse.html)  
+This website provides some informations regarding FUSE. It's quite a good documentation page.
+
+3. [Basic Info About Lynx](https://www.explorelinux.com/lynx-browsing-linux-terminal/)  
+I encountered Lynx for the first time in Week03 Demo and it's quite interesting. This website gives basic information about it like why we may want to use it and how to use it.
