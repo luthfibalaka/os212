@@ -59,3 +59,8 @@ This website provides some informations regarding FUSE. It's quite a good docume
 
 3. [Basic Info About Lynx](https://www.explorelinux.com/lynx-browsing-linux-terminal/)  
 I encountered Lynx for the first time in Week03 Demo and it's quite interesting. This website gives basic information about it like why we may want to use it and how to use it.
+
+## W04
+
+1. [Learn Shared Library](http://osr507doc.sco.com/en/tools/ShLib_WhatIs.html)  
+This website provides explanation of shared library. It gives a good basic overview of what it is.
