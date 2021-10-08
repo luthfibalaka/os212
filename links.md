@@ -64,3 +64,14 @@ I encountered Lynx for the first time in Week03 Demo and it's quite interesting.
 
 1. [Learn Shared Library](http://osr507doc.sco.com/en/tools/ShLib_WhatIs.html)  
 This website provides explanation of shared library. It gives a good basic overview of what it is.
+
+## W05 & W06
+
+1. [Learn Inverted Page Table](https://www.javatpoint.com/os-inverted-page-table)  
+This website provides explanation of one of several page table, which is the inverted one. I think it's a good supplement of the material from OSC10 to understand better about it.
+
+2. [Stack vs Heap](https://www.guru99.com/stack-vs-heap.html)  
+This website provides comparison between stack and heap. Well, I searched this out of curiosity because it's mentioned in our material this week and in Java programming language. I encourage you to look it up as well!
+
+3. [Learn TOP](https://www.howtogeek.com/668986/how-to-use-the-linux-top-command-and-understand-its-output/)  
+This website provides good explanation about top command in Linux. I recommend you to read it to have an overview of what is top command to do this week's demo.
