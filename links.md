@@ -84,4 +84,18 @@ This website provides comparison between process and thread. We can gain some in
 2. [Learn Concurrency](https://www.geeksforgeeks.org/concurrency-in-operating-system/)  
 Concurency is an important topic especially in contemporary computing devices. This website explains the concept in a concise way and we can use it as a reference before learning more about it in OS book.
 
+## W07
+
+1. [Learn Thread](https://www.cs.uic.edu/~jbell/CourseNotes/OperatingSystems/4_Threads.html)  
+Understanding of thread is crucial for this week's materials. Therefore, I recommend you to refresh your knowledge of thread by visiting this link. It actually summarizes the content of OSC book (even though it is an older version).
+
+2. [Learn Process Synchronization](https://www.cs.uic.edu/~jbell/CourseNotes/OperatingSystems/5_Synchronization.html)  
+Multiple threads on a process may access the same variables/resources and it may creates inconsistency. The code sections that perform that kind of access is "dangerous" and labeled as critical section. This website shows some algorithms to avoid inconsistency.
+
+3. [Learn Deadlock](https://www.cs.uic.edu/~jbell/CourseNotes/OperatingSystems/7_Deadlocks.html)  
+One interesting thing of this week's materials is deadlock. It's a condition where no threads/processes that can progress. Essentially, it's an undesirable situation. This website provides good explanation of what deadlock actually is and how to avoid it. It's also a summary of OS book just like two links above.
+
+4. [Lern to Create PThread](https://www.educative.io/edpresso/how-to-create-a-simple-thread-in-c)  
+After knowing what a thread is, it's a good practice to learn how to actually utilize it. This website provides beginner friendly explanation that also serves as a complement to this week's demo (where we are given sort of an interface that we can use to create thread). So, I recommend you to check it out!
+
 
