@@ -86,3 +86,13 @@ ZCZC W07   5 L16 Add suggestions in tips.md
 ZCZC W07  10 L17 Review my peers's links
 ZCZC W07  10 L18 Update mylog.txt
 ZCZC W07   5 L19 submitting this week's assignment
+ZCZC W08  20 L11 Read OSC10 Ch 5
+ZCZC W08  30 L12 Try this week's demo
+ZCZC W08  15 L13 Try previous year's final term problems
+ZCZC W08 130 L14 LFS ch 1-4
+ZCZC W08  40 L15 LFS ch 5
+ZCZC W08  10 L16 Update links.md
+ZCZC W08   5 L17 Update tips.md
+ZCZC W08  10 L18 Review peer's links
+ZCZC W08  10 L19 Update mylog.txt
+ZCZC W08   5 L20 Submit this week's assignment

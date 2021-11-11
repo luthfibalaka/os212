@@ -98,4 +98,12 @@ One interesting thing of this week's materials is deadlock. It's a condition whe
 4. [Lern to Create PThread](https://www.educative.io/edpresso/how-to-create-a-simple-thread-in-c)  
 After knowing what a thread is, it's a good practice to learn how to actually utilize it. This website provides beginner friendly explanation that also serves as a complement to this week's demo (where we are given sort of an interface that we can use to create thread). So, I recommend you to check it out!
 
+## W08
+
+1. [Learn CPU Scheduling](https://www.cs.uic.edu/~jbell/CourseNotes/OperatingSystems/6_CPU_Scheduling.html)  
+This week's topic is related to last two week's materials. But, we also have tons of assignments to do, so we have to learn efficiently. I recommend this website because it summarises the topic.
+
+2. [Learn Symbolic Link](https://www.hostinger.co.id/tutorial/symbolic-link-linux)  
+One thing about LFS is that we need to fulfill the dependency before continuing to build the system. One of it is we should make sure that /bin/sh should be a symbolic or hard link to bash. To achieve that, our lecturer has given the code to do that, but we can do it ourselves by visiting this website.
+
 
