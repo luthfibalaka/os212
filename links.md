@@ -106,4 +106,12 @@ This week's topic is related to last two week's materials. But, we also have ton
 2. [Learn Symbolic Link](https://www.hostinger.co.id/tutorial/symbolic-link-linux)  
 One thing about LFS is that we need to fulfill the dependency before continuing to build the system. One of it is we should make sure that /bin/sh should be a symbolic or hard link to bash. To achieve that, our lecturer has given the code to do that, but we can do it ourselves by visiting this website.
 
+## W09
+
+1. [Learn Mass Storage](https://www.cs.uic.edu/~jbell/CourseNotes/OperatingSystems/10_MassStorage.html)  
+Storage is a central part of a system. We've learned in previous lecture (Intro to Computer Architecture) that there are several types of it. This website provides good explanation about the overview of mass storage hardware and the scheduling algorithm of it.
+
+2. [Overview of RAID Technology](https://www.prepressure.com/library/technology/raid)  
+You must have heard of the word "RAID" when talking about storage (like RAID 0, RAID 1, etc). Well, find out more about it here!
+
 
